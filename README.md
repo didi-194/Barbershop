@@ -34,3 +34,11 @@ To use the app, follow these steps:
 * Log in or sign up to the app.
 * Select a barber, time, and location for your appointment.
 * Confirm your booking.
+
+### App Demo
+![text](https://imgur.com/q33FhLc.png)
+![text](https://imgur.com/e1eCmyT.png)
+![text](https://imgur.com/Jgfz8FO.png)
+![text](https://imgur.com/kf15FW1.png)
+![text](https://imgur.com/yjVqZJE.png)
+![text](https://imgur.com/j7SfNkP.png)
